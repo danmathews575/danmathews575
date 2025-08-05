@@ -59,14 +59,9 @@
 
 ---
 
-## 🌀 Animated Contribution Graph  
+## 🌀Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danmathews575&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
 
----
-
-## 🐍 Contribution Snake Animation  
-![Snake](https://raw.githubusercontent.com/danmathews575/danmathews575/gh-pages/github-snake.svg)
----
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/danmathews575/count.svg" />

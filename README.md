@@ -65,8 +65,7 @@
 ---
 
 ## 🐍 Contribution Snake Animation  
-![Snake animation](https://github.com/danmathews575/danmathews575/blob/output/github-contribution-grid-snake.svg)
-
+![Snake](https://raw.githubusercontent.com/danmathews575/danmathews575/gh-pages/github-snake.svg)
 ---
 
 <p align="center"> 

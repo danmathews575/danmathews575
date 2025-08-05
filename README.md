@@ -2,7 +2,7 @@
 **AI Engineer | Data Alchemist | Computational Biology Explorer**  
 
 🎓 **B.Tech in Artificial Intelligence and Data Science + Minor in Electronics & Communication**  
-🏅 **Honors in Computational Biology** (@ [Viswajyothi College](https://vjcet.org/))  
+🏅 **Honors in Computational Biology**  
 🌙 *"Debugging by moonlight, optimizing by sunrise."*  
 
 🔬 **Blending AI, biology, and hardware to solve messy real-world problems**  
@@ -55,7 +55,7 @@
 ### **🌍 Let’s Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danmathewsvinu/)
-[![Email](https://img.shields.io/badge/Email-dan.mathews575@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:dan.mathews575@gmail.com)
+[![Email](https://img.shields.io/badge/Email-danmathews575@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:dan.mathews575@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@dan.mathews_-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dan.mathews_/)  
 
 ---
